@@ -1,0 +1,23 @@
+{
+  "name": "lookdev-auto",
+  "description": "lookdev-auto tunes a visual parameter automatically",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conner K Ward",
+    "url": "https://github.com/connerkward"
+  },
+  "homepage": "https://github.com/connerkward/lookdev-auto-skill",
+  "repository": "https://github.com/connerkward/lookdev-auto-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "claude-code-skill",
+    "agent-skills",
+    "anthropic",
+    "vision-model",
+    "auto-tuning",
+    "generative-ai",
+    "evaluation"
+  ]
+}
