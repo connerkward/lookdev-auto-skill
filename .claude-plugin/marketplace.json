@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
-  "name": "lookdev-auto-skill",
+  "name": "lookdev-auto",
   "description": "Automated visual tuning: a vision model rates rendered variants in a loop.",
   "owner": {
     "name": "Conner K Ward",
