@@ -57,3 +57,7 @@ The automated-eye sibling of [`lookdev`](https://github.com/connerkward/lookdev-
 ## License
 
 MIT © Conner K Ward
+
+---
+
+🧭 **[ckw-skills](https://github.com/connerkward/ckw-skills)** — part of Conner K. Ward's collection of Claude Code skills & MCP servers.
