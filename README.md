@@ -1,5 +1,7 @@
 # lookdev-auto
 
+*lookdev-auto is a Claude Code skill for automated visual tuning: a vision model rates rendered variants and suggests better values in a loop.*
+
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue) ![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-d97757) ![Judge: vision model](https://img.shields.io/badge/judge-vision%20model-46d39a) ![Loop](https://img.shields.io/badge/optimize-loop-111)
 
 **When "looks/feels right" is the only metric, make a vision/video model the judge: render a few labeled variants into ONE contact sheet — params burned onto each — ask the model to rate them and suggest better values as JSON, render the suggestions, pick the best, repeat. Usually ~2 rounds.**

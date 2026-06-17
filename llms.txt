@@ -1,0 +1,14 @@
+# lookdev-auto
+
+> lookdev-auto is a Claude Code skill for automated visual tuning: a vision model rates rendered variants and suggests better values in a loop.
+
+## Install (Claude Code)
+- Add the marketplace: `/plugin marketplace add connerkward/ckw-skills`
+- Install this plugin: `/plugin install lookdev-auto@connerkward`
+
+## Links
+- Canonical README: https://github.com/connerkward/lookdev-auto-skill
+- Marketplace (all of Conner K. Ward's skills + MCP servers): https://github.com/connerkward/ckw-skills
+
+## Optional
+- Author: Conner K. Ward — https://github.com/connerkward
